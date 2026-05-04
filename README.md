@@ -1,4 +1,4 @@
-<img width="1920" height="3718" alt="image" src="https://github.com/user-attachments/assets/540339cf-c01f-4a67-b1a5-48504da2df34" />#  Easy Bank Template
+#  Easy Bank Template
 
 A modern, responsive banking website template built with HTML, CSS, JavaScript, and **Bootstrap**.
 
