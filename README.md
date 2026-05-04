@@ -1,10 +1,11 @@
-#  Easy Bank Template
+<img width="1920" height="3718" alt="image" src="https://github.com/user-attachments/assets/540339cf-c01f-4a67-b1a5-48504da2df34" />#  Easy Bank Template
 
 A modern, responsive banking website template built with HTML, CSS, JavaScript, and **Bootstrap**.
 
 ## 📋 Overview
 A sleek and user-friendly interface for a digital banking platform, showcasing services and features in an attractive way. Built using **Bootstrap 5** for responsive design, grid layout, and pre-built components.
-![alt text](image.png)
+<img width="1920" height="3718" alt="image" src="https://github.com/user-attachments/assets/4244ce01-cdc7-4342-ac6e-80eb570f6808" />
+
 
 ## 🛠 Tech Stack
 - ✅ **HTML5** - Content structure
